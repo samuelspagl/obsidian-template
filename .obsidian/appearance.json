@@ -1,0 +1,29 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "[callout] HeutigeNotizen",
+    "[editor] Custom Tag styles",
+    "[editor] Editor fixes",
+    "[editor] Frontmatter tweaks",
+    "[editor] Round images",
+    "[editor] Table tweaks",
+    "[editor] Top fade",
+    "[editor] Typography fixes",
+    "[ui] Compact File Explorer",
+    "[ui] Compact Sidebar Header",
+    "[ui] Compact Tabs",
+    "[ui] Floating Tab Header",
+    "[ui] Hide Ribbon",
+    "[ui] Hide Vault Title in Left Sidebar",
+    "[ui] Native Scrollbar styles",
+    "[ui] Statusbar tweaks",
+    "[user] Lighter Banner images",
+    "[user] Themed colours",
+    "Task Progressbars",
+    "Quiet Outline",
+    "Outline",
+    "MySnippets",
+    "Heatmap Calendar"
+  ]
+}

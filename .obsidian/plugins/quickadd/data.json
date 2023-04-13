@@ -1,0 +1,107 @@
+{
+  "choices": [
+    {
+      "id": "9108db94-1232-49f9-bc09-2d85bdf767a8",
+      "name": "Daily Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/template_daily_notes.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Daily Notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "ec9d6f47-c293-4208-b2cb-ae3b52559bdf",
+      "name": "Daily Bible Journal",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/template_daily_bible_journal.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Glaube/Bible Journal"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "faf78d60-4a58-4c4d-8446-8fe4dc13f474",
+      "name": "Sunday Sermon",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/template_sunday_sermon.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Glaube/Predigtnotizen"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "0.20.1",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

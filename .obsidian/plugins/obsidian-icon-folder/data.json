@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "PhText-columns",
+      "PhImages",
+      "PhImage",
+      "PhDev-to-logo",
+      "PhChurch"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Home.md": "PhHouse-simple",
+  "Daily Notes": "PhCalendar",
+  "Privat": "PhLock",
+  "Glaube": "PhChurch",
+  "Development": "PhDev-to-logo",
+  "media": "PhImages",
+  "templates": "PhText-columns"
+}

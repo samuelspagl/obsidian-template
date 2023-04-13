@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "077eaea0fa004d60",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae3690940e647b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3387c7f288e3d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d51fdc0131677dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bc5a3a5bd717cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/template_daily_notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee96d6d4020ee10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/template_daily_bible_journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6449c5e71069103f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a93e32c95adbefe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glaube/Predigtnotizen/Predigtnotizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88afebb7b1b2ae9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glaube/Predigtnotizen/Predigtnotizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ac5ce9936710469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glaube/Predigtnotizen/Some Topic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edfd874b21a63a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8324b83899947147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glaube/Bible Journal/2023-04-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21af89c8d9913bc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e277abc98c3fb017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e8d87ac5162aa35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f644598478b68093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74aad1bfcf78a5ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8ec91af7423612c",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "edfd874b21a63a29",
+  "lastOpenFiles": [
+    "Glaube/Predigtnotizen/Predigtnotizen.md",
+    "Glaube/Predigtnotizen/Stuff 2.md",
+    "Glaube/Predigtnotizen/Some Topic.md",
+    "media/easter.jpg",
+    "Home.md",
+    "Daily Notes/2023-04-13.md",
+    "Glaube/Bible Journal/2023-04-13.md",
+    "Glaube/Bible Journal",
+    "Glaube/Predigtnotizen",
+    "templates/template_daily_notes.md",
+    "templates/template_sunday_sermon.md",
+    "templates/template_daily_bible_journal.md",
+    "sortspec.md",
+    "Privat",
+    "templates",
+    "media",
+    "Development",
+    "Glaube",
+    "Daily Notes"
+  ]
+}
